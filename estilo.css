@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 10px;
+}
+
+h1{
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+select{
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+button{
+	position: relative;
+	float: left;
+	width: 40%;
+	height: 50px;
+	top: 10px;
+	left: 30%;
+}
