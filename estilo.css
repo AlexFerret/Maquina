@@ -3,16 +3,30 @@
 	padding: 10px;
 }
 
+body{
+	background: #1E3344;
+	overflow: hidden;
+}
+
 h1{
 	position: relative;
 	float: left;
 	width: 100%;
+	font-family: 'Finger Paint', cursive;
+	color: #D1D6DE;
 }
 
 select{
 	position: relative;
 	float: left;
 	width: 100%;
+	font-family: 'Lato', sans-serif;
+	border-bottom-left-radius: 25px;
+	border-top-right-radius: 25px;
+	font-size: 20px;
+	background-color: #E9EDF0;
+	color: #000000;
+	font-weight: bold;
 }
 
 button{
@@ -22,4 +36,10 @@ button{
 	height: 50px;
 	top: 10px;
 	left: 30%;
+	border-radius: 25px;
+	border: none;
+	background-color: #FE9592;
+	color: #000000;
+	font-size: 20px;
+	font-weight: bold;
 }
